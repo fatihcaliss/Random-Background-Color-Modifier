@@ -52,6 +52,12 @@ a:hover {
     color: rgba(0, 128, 0, 0.719);
 }
 
+a:active {
+    font-size: 1.1rem;
+    font-weight: 1000;
+    color: rgba(0, 128, 0, 0.719);
+}
+
 main {
     display: flex;
     justify-content: center;
