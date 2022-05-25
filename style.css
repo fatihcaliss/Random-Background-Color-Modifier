@@ -97,7 +97,6 @@ button:hover{
 }
 
 button:active {
-    font-size: 1.1rem;
     font-weight: 1000;
     color: rgba(0, 128, 0, 0.719);
 }
